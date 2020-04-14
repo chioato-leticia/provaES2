@@ -1,0 +1,109 @@
+    1  git
+    2  cd E
+    3  cd
+    4  ls
+    5  ls
+    6  pwd
+    7  cd Desktop/
+    8  ls
+    9  pwd
+   10  ls
+   11  cd ..
+   12  cd ARRAY\ 2/
+   13  ls
+   14  git init 
+   15  git status
+   16  git status
+   17  git status
+   18  git add .
+   19  git status
+   20  git commit -m "Initial commit"
+   21  git config --global user.email "leticia.cioato@gmail.com"
+   22   git config --global user.email "leticia.cioato@gmail.com"
+   23  gitt config user.email "leticia.cioato@gmail.com"
+   24  git config user.email "leticia.cioato@gmail.com"
+   25  git remote add origin git@github.com:chioato-leticia/senac-ESIII
+   26  git status
+   27  git commit -m "Initial commit"
+   28   config --global useruser.email "leticia.cioato@gmail.
+   29  '
+   30  git pull origin master
+   31  ssh-keygen -t rsa -b 4096 -m PEM
+   32  ssh-keygen -o
+   33  cat ~/.ssh/id_rsa.pub
+   34  git pull origin master
+   35  git reset --hard origin/master
+   36  git commit --amend
+   37  git config --global user.email "you@example.com"
+   38  git config --global user.email "leticia.cioato@gmail.com"
+   39  git config --global user.name "Leticia Heller"
+   40  git commit --amend
+   41  git push origin master
+   42  git push origin master --force
+   43  git inint
+   44  git init
+   45  ls
+   46  ls -lah
+   47  rm -rf .git/
+   48  git clone https://github.com/chioato-leticia/provaES2.git
+   49  ls
+   50  git branch
+   51  ls
+   52  rm -rf provaES2/
+   53  git clone https://github.com/chioato-leticia/provaES2.git .
+   54  ls
+   55  ls -lah
+   56  git checkout -b feature/calculator
+   57  git branch -m feature/calculator feature/calculator-sum
+   58  code .
+   59  git status
+   60  git add .
+   61  gst
+   62  git status
+   63  git commit -m "feat: Add sum calculator function."
+   64  git push origin -u
+   65  git push -u origin feature/calculator-sum
+   66  git checkout master
+   67  git checkout -b feature/calculator-sub
+   68  gst
+   69  git status
+   70  git add .
+   71  gitmoji -c
+   72  gitmoji -c
+   73  git commit -m ":sparkles: feat: Add sub function."
+   74  git push -u origin feature/calculator-sub
+   75  history > LOG_HellerLeticia
+   76  git checkout master
+   77  git fetch --all
+   78  git checkout feature/calculator-div
+   79  git pull origin featur/calculator-div
+   80  git pull origin feature/calculator-div
+   81  git log
+   82  git rebase master
+   83  git checkout master
+   84  git pull
+   85  git checkout feature/calculator-div
+   86  git rebase --abort
+   87  git rebase master
+   88  git status
+   89  git rebase --continue
+   90  git status
+   91  git add Calculadora.js
+   92  git status
+   93  git commit -m ":twisted_rightwards_arrows: fix: Fix merge conflicts."
+   94  git push
+   95  git push origin feature/calculator-div
+   96  git pull origin feature/calculator-div
+   97  git status
+   98  git commit
+   99  git status
+  100  git add Calculadora.js 
+  101  git commit
+  102  git rebase --continue
+  103  git status
+  104  git push origin feature/calculator-div
+  105  git checkout master
+  106  git pull
+  107  git tag -a "1.0.0"
+  108  git push --tags
+  109  history > LOG_HellerLeticia
