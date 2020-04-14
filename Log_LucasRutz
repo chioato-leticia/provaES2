@@ -1,0 +1,207 @@
+    1  git init
+    2  code .
+    3  git init
+    4  Code .
+    5  git add .
+    6  git commit -m "Adicionando..."
+    7  config
+    8  git config
+    9  git config user.name
+   10  git config user.name "Lucas Rutz"
+   11  git config email.name "k-rutz@hotmail.com"
+   12  git add .
+   13  git commit -m "Adicionando..."
+   14  git config --global user.email "k-rutz@hotmail.com"
+   15  git config --global user.emal "Lucas Rutz"
+   16  git config --global user.name "Lucas Rutz"
+   17  git add .
+   18  git commit -m "Adicionando..."
+   19  git init
+   20  code .
+   21  git init
+   22  code calc.js
+   23  npm i -g yo
+   24  npm i -g yo
+   25  git init
+   26  npm i -g yo
+   27  npm install --save-dev @babel/core @babel/cli @babel/preset-env
+   28  npm install --save-dev @babel/core @babel/cli @babel/preset-env
+   29  git init
+   30  npm install --save-dev @babel/core @babel/cli @babel/preset-env
+   31  npm install --save-dev @babel/core @babel/cli @babel/preset-env
+   32  npm intal
+   33  npm intall
+   34  git init
+   35  npm install --save-dev @babel/core @babel/cli @babel/preset-env
+   36  C:\Program Files or (x86)\nodejs\
+   37  git init
+   38  pwd
+   39  cd C:\Users\k-rut\OneDrive\Área de Trabalho\E.S.3
+   40  cd Users\k-rut\OneDrive\Área de Trabalho\E.S.3
+   41  cd "C:\Users\k-rut\OneDrive\Área de Trabalho\E.S.3"
+   42  node aula2.js
+   43  node aula2.js
+   44  node aula2.js
+   45  node aula2.js
+   46  npm init
+   47  node aula2.js
+   48  node aula2.js
+   49  node aula2.js
+   50  quit
+   51  exot
+   52  exit
+   53  git config --global user.name “Lucas Rutz"
+   54  git config --global user.email "k-rutz@hotmail.com"[A
+   55  git init
+   56  git status
+   57  git add app.js
+   58  git status
+   59  git commit -m "Programa final pq não sabia usar o git"
+   60  git diff
+   61  git status
+   62  git log
+   63  git log --oneline
+   64  git log
+   65  git commit -m "Programa final porque não sabia usar o git" --amend
+   66  git log --oneline
+   67  git tag v1.0.0
+   68  git log --oneline
+   69  git log
+   70  python app.py
+   71  pip freeze
+   72  python app.py
+   73  git init
+   74  git clone https://github.com/lucasrutz/Youtube-codes
+   75  git init
+   76  git clone https://github.com/lucasrutz/Youtube-codes
+   77  code .
+   78  cd "C:\Users\k-rut\OneDrive\Área de Trabalho\Youtube-codes"
+   79  add .
+   80  git add .
+   81  code .
+   82  npn i -g gitmoji-cli
+   83  npm i -g gitmoji-cli
+   84  gitmoji-l
+   85  npm init
+   86  npm i -g gitmoji-cli
+   87  gitmoji -l
+   88  git init
+   89  git config --list
+   90  git clone https://github.com/chioato-leticia/provaES2/
+   91  code .
+   92  git chekout -b soma.js
+   93  git checkout -b soma.js
+   94  git brach
+   95  git branch
+   96  git clone https://github.com/chioato-leticia/provaES2/
+   97  git init
+   98  git checkout -b feature/soma
+   99  git branch
+  100  code .
+  101  git init
+  102  git clone https://github.com/chioato-leticia/provaES2/
+  103  code .
+  104  git checkout -b featury/implements
+  105  code .
+  106  git fetch origin
+  107  git checkout master
+  108  git checkout master
+  109  git fetch origin
+  110  git pull
+  111  git checkout master
+  112  git brach
+  113  git branch
+  114  git checkout -b master
+  115  git branch
+  116  git pull https://github.com/chioato-leticia/provaES2
+  117  git pull add .
+  118  git add .
+  119  git init
+  120  git clone "https://github.com/chioato-leticia/provaES2/"
+  121  git checkout -b featuare/calculator-mult
+  122  code .
+  123  git add .
+  124  git commit -m ":sparkles: feat: Add mul function."
+  125  git status
+  126  git add .
+  127  git status
+  128  git push
+  129  git log
+  130  gitmoji -c
+  131  gitmoji -c
+  132  git push -u origin feature/calculator-mult
+  133  git push -u origin featuare/calculator-mult
+  134  git status
+  135  git add .
+  136  git status
+  137  git log
+  138  git push 
+  139  git push -u origin featuare/calculator-mult
+  140  git log 
+  141  git push featuare/calculator-mult
+  142  git checkout master
+  143  cd "C:\Users\k-rut\OneDrive\Área de Trabalho\prova\provaES2"
+  144  git checkout featuare/calculator-mult
+  145  git brach
+  146  git branch
+  147  git checkout -b featuare/calculator-mult
+  148  code .
+  149  git clone https://github.com/chioato-leticia/provaES2/compare
+  150  git clone https://github.com/chioato-leticia/provaES2
+  151  ls
+  152  git checkout -b feature/calculator-mult
+  153  git brach
+  154  git branch
+  155  code .
+  156  git branch -m feature/calculator feature/calculator-mult
+  157  git status
+  158  cd "C:\Users\k-rut\OneDrive\Área de Trabalho\Nova pasta (2)\provaES2"
+  159  git branch -m feature/calculator feature/calculator-mult
+  160  git checkout -b feature/calculator-mult
+  161  code .
+  162  add .
+  163  git add .
+  164  git status
+  165  gitmoji -c
+  166* 
+  167  git checkout master
+  168  git checkout featuare/calculator-div
+  169  git checkout -b featuare/calculator-div
+  170  code .
+  171  add .
+  172  git status
+  173  git add .
+  174  git push -u origin feature/calculator-mult
+  175  gitmoji
+  176  gitmoji -c
+  177  git push -u origin feature/calculator-div
+  178  git status
+  179  git push -u origin feature/calculator-mult
+  180  git push -u origin feature/calculator-div
+  181  ls
+  182  git status
+  183  git log
+  184  git branch
+  185  git checkout master
+  186  git checkout feature/calculator-div
+  187  git branch
+  188  git checkout featuare/calculator-div
+  189  git branch -m feature/calculator-div
+  190  git status
+  191  add .
+  192  git add .
+  193  git status
+  194  gitmoji -c
+  195  git log
+  196* 
+  197  git checkout master
+  198  git pull https://github.com/chioato-leticia/provaES2/
+  199  git branch -m feature/calculator-div
+  200  git branch -m feature/calculator-div
+  201  git branch -m feature/calculator-div
+  202  git branch
+  203  git checkout feature/calculator-div
+  204  code .
+  205  git checkout master
+  206  git pull origin master
+  207  history >Log_LucasRutz
