@@ -14,7 +14,8 @@ function div(a, b){
     return a / b;
 }
 
+console.log(div(10,20));
 console.log(sum(10,20));
 console.log(sub(10,20));
 console.log(mult(10,20));
-console.log(div(10, 20));
+
